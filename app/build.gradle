@@ -62,7 +62,7 @@ android {
             }
         }
 
-        loafTestnet {
+        pricecoinTestnet {
             applicationId "com.pricecoinmobile.testnet"
             dimension "mode"
             resValue "string", "app_name", "PricecoinMobile-testnet"
