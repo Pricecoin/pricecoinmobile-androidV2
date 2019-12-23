@@ -3,4 +3,4 @@
 	url = https://github.com/bitcoin-core/secp256k1.git
 [submodule "app/src/main/jni/pricecoinxwallet-core"]
 	path = app/src/main/jni/pricecoinxwallet-core
-	url = https://github.com/Pricecoin/pricecoinxwallet-core
+	url = https://github.com/Pricecoin/pricecoinxwallet-core.git
